@@ -1,0 +1,51 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"国内外机器人高精度插拔研究现状","textShapes":29}
+{"kind":"shape","id":"sh/buh0nqtg","slide":1,"bbox":[54,34,7,55]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"text":"国内外机器人高精度插拔研究现状","textPreview":"国内外机器人高精度插拔研究现状","textChars":15,"textLines":1,"bbox":[78,27,950,52]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"text":"国外已形成算法、平台与迁移的完整链路，国内正推进融合控制及空间场景适配","textPreview":"国外已形成算法、平台与迁移的完整链路，国内正推进融合控制及空间场景适配","textChars":35,"textLines":1,"bbox":[79,80,1100,31]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"bbox":[62,132,552,5]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"bbox":[666,132,552,5]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"text":"国外研究","textPreview":"国外研究","textChars":4,"textLines":1,"bbox":[62,148,260,38]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"text":"国内研究","textPreview":"国内研究","textChars":4,"textLines":1,"bbox":[666,148,260,38]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"bbox":[638,143,2,365]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"bbox":[62,197,44,44]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[62,199,44,38]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"text":"连续控制算法","textPreview":"连续控制算法","textChars":6,"textLines":1,"bbox":[124,194,410,31]}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"text":"DDPG、TD3、PPO、SAC成为接触操作的主要方法\n研究从单一运动控制扩展到视觉、力觉和控制先验融合","textPreview":"DDPG、TD3、PPO、SAC成为接触操作的主要方法 | 研究从单一运动控制扩展到视觉、力觉和控制先验融合","textChars":52,"textLines":2,"bbox":[124,228,472,61]}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"bbox":[666,197,44,44]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[666,199,44,38]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"text":"控制与学习融合","textPreview":"控制与学习融合","textChars":7,"textLines":1,"bbox":[728,194,410,31]}
+{"kind":"textbox","id":"sh/ipovexwn","slide":1,"text":"关节阻抗、导纳控制提供基本柔顺性\nPPO及残差策略补偿位姿误差与接触扰动","textPreview":"关节阻抗、导纳控制提供基本柔顺性 | PPO及残差策略补偿位姿误差与接触扰动","textChars":36,"textLines":2,"bbox":[728,228,472,61]}
+{"kind":"shape","id":"sh/3qxwn2x8","slide":1,"bbox":[124,288,472,1]}
+{"kind":"shape","id":"sh/sfqdkrep","slide":1,"bbox":[728,288,472,1]}
+{"kind":"shape","id":"sh/dgzetcfa","slide":1,"bbox":[62,305,44,44]}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[62,307,44,38]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"text":"并行仿真平台","textPreview":"并行仿真平台","textChars":6,"textLines":1,"bbox":[124,302,410,31]}
+{"kind":"textbox","id":"sh/zadcv2p8","slide":1,"text":"Factory、IndustReal、AutoMate覆盖多类接触装配\nIsaac Lab支持GPU并行、多模态感知与域随机化","textPreview":"Factory、IndustReal、AutoMate覆盖多类接触装配 | Isaac Lab支持GPU并行、多模态感知与域随机化","textChars":63,"textLines":2,"bbox":[124,336,472,61]}
+{"kind":"shape","id":"sh/e94v2hon","slide":1,"bbox":[666,305,44,44]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[666,307,44,38]}
+{"kind":"textbox","id":"sh/ozmd8r65","slide":1,"text":"视觉—力觉协同","textPreview":"视觉—力觉协同","textChars":7,"textLines":1,"bbox":[728,302,410,31]}
+{"kind":"textbox","id":"sh/nydczmpk","slide":1,"text":"视觉负责大范围接近与初步对准，力觉处理接触校正\n示教与运动基元减少长时序随机探索","textPreview":"视觉负责大范围接近与初步对准，力觉处理接触校正 | 示教与运动基元减少长时序随机探索","textChars":40,"textLines":2,"bbox":[728,336,472,61]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"bbox":[124,396,472,1]}
+{"kind":"shape","id":"sh/p4bu5s76","slide":1,"bbox":[728,396,472,1]}
+{"kind":"shape","id":"sh/432dwn6l","slide":1,"bbox":[62,413,44,44]}
+{"kind":"textbox","id":"sh/uxgjq907","slide":1,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[62,415,44,38]}
+{"kind":"textbox","id":"sh/vyp0je1s","slide":1,"text":"迁移与快速适应","textPreview":"迁移与快速适应","textChars":7,"textLines":1,"bbox":[124,410,410,31]}
+{"kind":"textbox","id":"sh/wzy1szid","slide":1,"text":"域随机化增强动力学和传感误差鲁棒性\n元强化学习利用少量交互适应新几何与新任务","textPreview":"域随机化增强动力学和传感误差鲁棒性 | 元强化学习利用少量交互适应新几何与新任务","textChars":38,"textLines":2,"bbox":[124,444,472,61]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"bbox":[666,413,44,44]}
+{"kind":"textbox","id":"sh/i1gje90j","slide":1,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[666,415,44,38]}
+{"kind":"textbox","id":"sh/j2pkne14","slide":1,"text":"空间装配拓展","textPreview":"空间装配拓展","textChars":6,"textLines":1,"bbox":[728,410,410,31]}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"text":"多模态阻抗型虚实迁移已开展验证\n空间机器人高精度插拔研究仍处于拓展阶段","textPreview":"多模态阻抗型虚实迁移已开展验证 | 空间机器人高精度插拔研究仍处于拓展阶段","textChars":35,"textLines":2,"bbox":[728,444,472,61]}
+{"kind":"shape","id":"sh/54r2poju","slide":1,"bbox":[0,535,1280,185]}
+{"kind":"textbox","id":"sh/y5wjip0z","slide":1,"text":"关键差距与研究切入","textPreview":"关键差距与研究切入","textChars":9,"textLines":1,"bbox":[62,553,430,37]}
+{"kind":"shape","id":"sh/z650ba1k","slide":1,"bbox":[62,594,1156,1]}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"text":"空间场景缺口","textPreview":"空间场景缺口","textChars":6,"textLines":1,"bbox":[62,610,320,28]}
+{"kind":"textbox","id":"sh/e1oz61c3","slide":1,"text":"现有成果主要面向地面固定基座\n基座运动与动力学耦合研究不足","textPreview":"现有成果主要面向地面固定基座 | 基座运动与动力学耦合研究不足","textChars":29,"textLines":2,"bbox":[62,641,330,53]}
+{"kind":"shape","id":"sh/14fyhgbe","slide":1,"bbox":[427,612,1,77]}
+{"kind":"textbox","id":"sh/036h8but","slide":1,"text":"训练与验证瓶颈","textPreview":"训练与验证瓶颈","textChars":7,"textLines":1,"bbox":[458,610,320,28]}
+{"kind":"textbox","id":"sh/nqxgjqtk","slide":1,"text":"接触动力学不连续，在轨交互数据稀缺\n仿真策略难以直接迁移","textPreview":"接触动力学不连续，在轨交互数据稀缺 | 仿真策略难以直接迁移","textChars":28,"textLines":2,"bbox":[458,641,330,53]}
+{"kind":"shape","id":"sh/mpozalcz","slide":1,"bbox":[823,612,1,77]}
+{"kind":"textbox","id":"sh/9sfylgbq","slide":1,"text":"本文切入","textPreview":"本文切入","textChars":4,"textLines":1,"bbox":[854,610,320,28]}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"text":"高拟真视觉—力觉环境与残差策略\n协同域随机化和元学习","textPreview":"高拟真视觉—力觉环境与残差策略 | 协同域随机化和元学习","textChars":26,"textLines":2,"bbox":[854,641,330,53]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"内容依据用户提供的《国内外研究现状》原文归纳，涉及文献编号[3]、[5]、[8]—[40]。本页仅总结用户材料中的技术路线、代表性平台与研究缺口，未新增外部事实。"}

@@ -1,0 +1,43 @@
+{"kind":"deck","id":"pr/fxvm1a","name":"Deck"}
+{"kind":"layout","layoutId":"d1ab4b97-20c8-4009-bdb6-adcf5776b3de","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"03299817-49b4-46eb-9fe2-734ec01d5013","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/llb4w0","slide":1,"title":"接触式装配研究现状与技术需求","textShapes":23}
+{"kind":"shape","id":"sh/5kza1kv6","slide":1,"bbox":[54,29,7,58]}
+{"kind":"textbox","id":"sh/ixorq5cf","slide":1,"text":"接触式装配研究现状与技术需求","textPreview":"接触式装配研究现状与技术需求","textChars":14,"textLines":1,"bbox":[78,23,930,52]}
+{"kind":"textbox","id":"sh/3yhszad0","slide":1,"text":"研究已覆盖连续策略、多模态融合和仿真迁移，空间双臂高精度插拔仍缺少完整验证闭环","textPreview":"研究已覆盖连续策略、多模态融合和仿真迁移，空间双臂高精度插拔仍缺少完整验证闭环","textChars":39,"textLines":1,"bbox":[79,78,1135,30]}
+{"kind":"shape","id":"sh/gv69ovup","slide":1,"bbox":[57,125,366,196]}
+{"kind":"shape","id":"sh/utorm5cj","slide":1,"bbox":[457,125,366,196]}
+{"kind":"shape","id":"sh/0rat0zut","slide":1,"bbox":[857,125,366,196]}
+{"kind":"shape","id":"sh/9kvqxwrm","slide":1,"bbox":[60,333,38,4]}
+{"kind":"textbox","id":"sh/ojmp4ra1","slide":1,"text":"连续动作强化学习","textPreview":"连续动作强化学习","textChars":8,"textLines":1,"bbox":[60,346,360,31]}
+{"kind":"textbox","id":"sh/nid8vm9g","slide":1,"text":"从DQN扩展至DDPG、TD3、PPO和SAC，\n连续策略逐步用于轴孔插入与接触操作","textPreview":"从DQN扩展至DDPG、TD3、PPO和SAC， | 连续策略逐步用于轴孔插入与接触操作","textChars":42,"textLines":2,"bbox":[60,382,360,55]}
+{"kind":"textbox","id":"sh/mhk72hsv","slide":1,"text":"Mnih[8]  Lillicrap[9]  Fujimoto[10]\nSchulman[11]  Haarnoja[12]","textPreview":"Mnih[8]  Lillicrap[9]  Fujimoto[10] | Schulman[11]  Haarnoja[12]","textChars":62,"textLines":2,"bbox":[60,442,360,43]}
+{"kind":"shape","id":"sh/1gbqtwra","slide":1,"bbox":[460,333,38,4]}
+{"kind":"textbox","id":"sh/0f2p0rap","slide":1,"text":"视觉—力觉与残差控制","textPreview":"视觉—力觉与残差控制","textChars":10,"textLines":1,"bbox":[460,346,360,31]}
+{"kind":"textbox","id":"sh/zet8rm94","slide":1,"text":"视觉承担大范围对准，力觉处理接触校正，\n残差策略学习控制器未覆盖的误差","textPreview":"视觉承担大范围对准，力觉处理接触校正， | 残差策略学习控制器未覆盖的误差","textChars":35,"textLines":2,"bbox":[460,382,360,55]}
+{"kind":"textbox","id":"sh/edk7yhsz","slide":1,"text":"Ahn[24]  Jin[25]  Johannink[26]","textPreview":"Ahn[24]  Jin[25]  Johannink[26]","textChars":31,"textLines":1,"bbox":[460,442,360,43]}
+{"kind":"shape","id":"sh/5cfq5gre","slide":1,"bbox":[860,333,38,4]}
+{"kind":"textbox","id":"sh/kb6pcba9","slide":1,"text":"并行仿真与技能迁移","textPreview":"并行仿真与技能迁移","textChars":9,"textLines":1,"bbox":[860,346,360,31]}
+{"kind":"textbox","id":"sh/4ry1oj2h","slide":1,"text":"并行平台支持大规模训练，域随机化与\n元学习面向虚实迁移和新任务适应","textPreview":"并行平台支持大规模训练，域随机化与 | 元学习面向虚实迁移和新任务适应","textChars":33,"textLines":2,"bbox":[860,382,360,55]}
+{"kind":"textbox","id":"sh/ps7ixo32","slide":1,"text":"Factory[17]  IndustReal[18]  AutoMate[19]\nIsaac Lab[20]  Tobin[32]  Finn[36]","textPreview":"Factory[17]  IndustReal[18]  AutoMate[19] | Isaac Lab[20]  Tobin[32]  Finn[36]","textChars":76,"textLines":2,"bbox":[860,442,360,43]}
+{"kind":"shape","id":"sh/2pwjm9kb","slide":1,"bbox":[60,492,1160,39]}
+{"kind":"textbox","id":"sh/3q50velw","slide":1,"text":"现状暴露：接触动力学不连续，多模态数据不同步，空间双臂实物验证不足","textPreview":"现状暴露：接触动力学不连续，多模态数据不同步，空间双臂实物验证不足","textChars":33,"textLines":1,"bbox":[80,498,1120,27]}
+{"kind":"shape","id":"sh/gne1kj2l","slide":1,"bbox":[0,546,1280,174]}
+{"kind":"textbox","id":"sh/honit43q","slide":1,"text":"由现状提出的技术需求","textPreview":"由现状提出的技术需求","textChars":10,"textLines":1,"bbox":[60,562,410,32]}
+{"kind":"shape","id":"sh/u1wji9kf","slide":1,"bbox":[60,601,1160,1]}
+{"kind":"textbox","id":"sh/f250rel0","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[60,618,44,27]}
+{"kind":"textbox","id":"sh/szu1gz29","slide":1,"text":"高拟真空间双臂环境","textPreview":"高拟真空间双臂环境","textChars":9,"textLines":1,"bbox":[112,615,300,30]}
+{"kind":"textbox","id":"sh/t0nip43u","slide":1,"text":"覆盖基座运动、双臂耦合与插拔接触\n同步生成视觉及力觉反馈","textPreview":"覆盖基座运动、双臂耦合与插拔接触 | 同步生成视觉及力觉反馈","textChars":28,"textLines":2,"bbox":[112,650,310,51]}
+{"kind":"shape","id":"sh/vulkzu5g","slide":1,"bbox":[438,618,1,76]}
+{"kind":"textbox","id":"sh/atcjqpob","slide":1,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[460,618,44,27]}
+{"kind":"textbox","id":"sh/xw3214nm","slide":1,"text":"连续残差柔顺策略","textPreview":"连续残差柔顺策略","textChars":8,"textLines":1,"bbox":[512,615,300,30]}
+{"kind":"textbox","id":"sh/wvu1sz61","slide":1,"text":"基础控制器保证稳定与柔顺\n残差策略学习接触阶段连续补偿","textPreview":"基础控制器保证稳定与柔顺 | 残差策略学习接触阶段连续补偿","textChars":27,"textLines":2,"bbox":[512,650,310,51]}
+{"kind":"shape","id":"sh/jylk3u5s","slide":1,"bbox":[838,618,1,76]}
+{"kind":"textbox","id":"sh/ixcju9o7","slide":1,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[860,618,44,27]}
+{"kind":"textbox","id":"sh/50n254ny","slide":1,"text":"跨环境与跨任务迁移","textPreview":"跨环境与跨任务迁移","textChars":9,"textLines":1,"bbox":[912,615,300,30]}
+{"kind":"textbox","id":"sh/kzu1wz6d","slide":1,"text":"联合域随机化与元训练任务\n通过独立测试验证策略泛化能力","textPreview":"联合域随机化与元训练任务 | 通过独立测试验证策略泛化能力","textChars":27,"textLines":2,"bbox":[912,650,310,51]}
+{"kind":"textbox","id":"sh/7m5k7e5o","slide":1,"text":"三幅图片为概念示意，文献编号与正文一致","textPreview":"三幅图片为概念示意，文献编号与正文一致","textChars":19,"textLines":1,"bbox":[60,703,550,13]}
+{"kind":"image","id":"im/8ri1sjax","slide":1,"name":"","geometry":"roundRect","alt":"强化学习控制机械臂执行轴孔插入的概念示意图","bbox":[60,128,360,190]}
+{"kind":"image","id":"im/6p0jq9sr","slide":1,"name":"","geometry":"roundRect","alt":"视觉与力觉协同感知插入接触状态的概念示意图","bbox":[460,128,360,190]}
+{"kind":"image","id":"im/ovy1gzat","slide":1,"name":"","geometry":"roundRect","alt":"空间双臂机器人从仿真到真实部署的概念示意图","bbox":[860,128,360,190]}
+{"kind":"notes","id":"nt/llb4w0","slide":1,"text":"内容依据用户提供的国内外研究现状材料归纳。文献编号沿用正文：[8] Mnih等DQN；[9] Lillicrap等DDPG；[10] Fujimoto等TD3；[11] Schulman等PPO；[12] Haarnoja等SAC；[17] Narang等Factory；[18] Tang等IndustReal；[19] AutoMate；[20] Isaac Lab；[24] Ahn等视觉—力觉策略；[25] Jin等视觉—力觉课程学习；[26] Johannink等残差强化学习；[32] Tobin等域随机化；[36] Finn等MAML。三幅插图由OpenAI图像生成工具生成，用作连续动作强化学习、视觉—力觉融合和仿真迁移的概念示意，不代表具体论文实验装置或真实实验照片。"}

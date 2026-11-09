@@ -1,0 +1,2786 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/zz3fa7",
+    "id": "zz3fa7",
+    "slide": 1,
+    "layoutId": "4e704bdc-5802-454f-af55-e119ba26075d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "38992e55-3b25-4ab1-be25-20af4fd9d8e4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F9FC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Noto Sans SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4e704bdc-5802-454f-af55-e119ba26075d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "38992e55-3b25-4ab1-be25-20af4fd9d8e4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "38992e55-3b25-4ab1-be25-20af4fd9d8e4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0ryhgne",
+      "id": "1",
+      "bbox": [
+        54,
+        31,
+        7,
+        57
+      ],
+      "geometry": "rect",
+      "fillColor": "#2166D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2d0zm1o3",
+      "id": "2",
+      "bbox": [
+        78,
+        25,
+        930,
+        50
+      ],
+      "geometry": "rect",
+      "text": "接触式装配研究现状与技术需求",
+      "textPreview": "接触式装配研究现状与技术需求",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 39,
+        "typeface": "Noto Sans SC",
+        "color": "#10243E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "接触式装配研究现状与技术需求"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "接触式装配研究现状与技术需求",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "typeface": "Noto Sans SC",
+            "color": "#10243E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "接触式装配研究现状与技术需求",
+              "fontSize": 39,
+              "typeface": "Noto Sans SC",
+              "color": "#10243E",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e9gf658",
+      "id": "3",
+      "bbox": [
+        79,
+        79,
+        1125,
+        30
+      ],
+      "geometry": "rect",
+      "text": "算法、感知融合与仿真迁移已有基础，空间双臂高精度插拔仍缺少完整训练与验证闭环",
+      "textPreview": "算法、感知融合与仿真迁移已有基础，空间双臂高精度插拔仍缺少完整训练与验证闭环",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "算法、感知融合与仿真迁移已有基础，空间双臂高精度插拔仍缺少完整训练与验证闭环"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "算法、感知融合与仿真迁移已有基础，空间双臂高精度插拔仍缺少完整训练与验证闭环",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "算法、感知融合与仿真迁移已有基础，空间双臂高精度插拔仍缺少完整训练与验证闭环",
+              "fontSize": 20,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c32hsb65",
+      "id": "4",
+      "bbox": [
+        60,
+        132,
+        520,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2166D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4bylgnq",
+      "id": "5",
+      "bbox": [
+        615,
+        132,
+        245,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#D65B2A",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1kzqloz",
+      "id": "6",
+      "bbox": [
+        900,
+        132,
+        320,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#1C8D91",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2tgj65k",
+      "id": "7",
+      "bbox": [
+        60,
+        149,
+        350,
+        37
+      ],
+      "geometry": "rect",
+      "text": "已有研究进展",
+      "textPreview": "已有研究进展",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Noto Sans SC",
+        "color": "#2166D1",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "已有研究进展"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "已有研究进展",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Noto Sans SC",
+            "color": "#2166D1",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "已有研究进展",
+              "fontSize": 27,
+              "typeface": "Noto Sans SC",
+              "color": "#2166D1",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/072hwv61",
+      "id": "8",
+      "bbox": [
+        615,
+        149,
+        210,
+        37
+      ],
+      "geometry": "rect",
+      "text": "现有瓶颈",
+      "textPreview": "现有瓶颈",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Noto Sans SC",
+        "color": "#D65B2A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现有瓶颈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现有瓶颈",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Noto Sans SC",
+            "color": "#D65B2A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现有瓶颈",
+              "fontSize": 27,
+              "typeface": "Noto Sans SC",
+              "color": "#D65B2A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l8bip0nm",
+      "id": "9",
+      "bbox": [
+        900,
+        149,
+        320,
+        37
+      ],
+      "geometry": "rect",
+      "text": "本研究提出的技术需求",
+      "textPreview": "本研究提出的技术需求",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Noto Sans SC",
+        "color": "#1C8D91",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "本研究提出的技术需求"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "本研究提出的技术需求",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Noto Sans SC",
+            "color": "#1C8D91",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "本研究提出的技术需求",
+              "fontSize": 27,
+              "typeface": "Noto Sans SC",
+              "color": "#1C8D91",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wz6pwja",
+      "id": "10",
+      "bbox": [
+        592,
+        145,
+        2,
+        394
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v65gb2p",
+      "id": "11",
+      "bbox": [
+        880,
+        145,
+        2,
+        394
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ux4n614",
+      "id": "12",
+      "bbox": [
+        60,
+        206,
+        6,
+        72
+      ],
+      "geometry": "rect",
+      "fillColor": "#2166D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtone1kj",
+      "id": "13",
+      "bbox": [
+        82,
+        202,
+        455,
+        29
+      ],
+      "geometry": "rect",
+      "text": "连续动作强化学习",
+      "textPreview": "连续动作强化学习",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "连续动作强化学习"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "连续动作强化学习",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "连续动作强化学习",
+              "fontSize": 22,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkz6tgj6",
+      "id": "14",
+      "bbox": [
+        82,
+        236,
+        478,
+        58
+      ],
+      "geometry": "rect",
+      "text": "DDPG[9]、TD3[10]、PPO[11]、SAC[12]\n已用于轴孔插入和接触操作",
+      "textPreview": "DDPG[9]、TD3[10]、PPO[11]、SAC[12] | 已用于轴孔插入和接触操作",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DDPG[9]、TD3[10]、PPO[11]、SAC[12]"
+          },
+          {
+            "index": 2,
+            "text": "已用于轴孔插入和接触操作"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DDPG[9]、TD3[10]、PPO[11]、SAC[12]",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DDPG[9]、TD3[10]、PPO[11]、SAC[12]",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "已用于轴孔插入和接触操作",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "已用于轴孔插入和接触操作",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjq5kb2l",
+      "id": "15",
+      "bbox": [
+        82,
+        296,
+        478,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vihor61g",
+      "id": "16",
+      "bbox": [
+        60,
+        317,
+        6,
+        72
+      ],
+      "geometry": "rect",
+      "fillColor": "#2166D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ux8ni1kv",
+      "id": "17",
+      "bbox": [
+        82,
+        313,
+        455,
+        29
+      ],
+      "geometry": "rect",
+      "text": "多模态与残差控制",
+      "textPreview": "多模态与残差控制",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多模态与残差控制"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多模态与残差控制",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多模态与残差控制",
+              "fontSize": 22,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xofmhcj2",
+      "id": "18",
+      "bbox": [
+        82,
+        347,
+        478,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Ahn[24]、Jin[25]开展视觉—力觉协同\nJohannink[26]提出残差强化学习",
+      "textPreview": "Ahn[24]、Jin[25]开展视觉—力觉协同 | Johannink[26]提出残差强化学习",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ahn[24]、Jin[25]开展视觉—力觉协同"
+          },
+          {
+            "index": 2,
+            "text": "Johannink[26]提出残差强化学习"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ahn[24]、Jin[25]开展视觉—力觉协同",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ahn[24]、Jin[25]开展视觉—力觉协同",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Johannink[26]提出残差强化学习",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Johannink[26]提出残差强化学习",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnm5872h",
+      "id": "19",
+      "bbox": [
+        82,
+        407,
+        478,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7q5orad",
+      "id": "20",
+      "bbox": [
+        60,
+        428,
+        6,
+        72
+      ],
+      "geometry": "rect",
+      "fillColor": "#2166D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8z6xwry",
+      "id": "21",
+      "bbox": [
+        82,
+        424,
+        455,
+        29
+      ],
+      "geometry": "rect",
+      "text": "并行仿真与技能迁移",
+      "textPreview": "并行仿真与技能迁移",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "并行仿真与技能迁移"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "并行仿真与技能迁移",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "并行仿真与技能迁移",
+              "fontSize": 22,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/258nmhs7",
+      "id": "22",
+      "bbox": [
+        82,
+        458,
+        478,
+        76
+      ],
+      "geometry": "rect",
+      "text": "Factory[17]、IndustReal[18]、AutoMate[19]\nIsaac Lab[20]，域随机化[32]，元学习[36,38]",
+      "textPreview": "Factory[17]、IndustReal[18]、AutoMate[19] | Isaac Lab[20]，域随机化[32]，元学习[36,38]",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Factory[17]、IndustReal[18]、AutoMate[19]"
+          },
+          {
+            "index": 2,
+            "text": "Isaac Lab[20]，域随机化[32]，元学习[36,38]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Factory[17]、IndustReal[18]、AutoMate[19]",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Factory[17]、IndustReal[18]、AutoMate[19]",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Isaac Lab[20]，域随机化[32]，元学习[36,38]",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Isaac Lab[20]，域随机化[32]，元学习[36,38]",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hovm9s",
+      "id": "23",
+      "bbox": [
+        615,
+        202,
+        41,
+        28
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Noto Sans SC",
+        "color": "#D65B2A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Noto Sans SC",
+            "color": "#D65B2A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 18,
+              "typeface": "Noto Sans SC",
+              "color": "#D65B2A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cba5sra9",
+      "id": "24",
+      "bbox": [
+        660,
+        202,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "接触过程难建模",
+      "textPreview": "接触过程难建模",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "接触过程难建模"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "接触过程难建模",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "接触过程难建模",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcj61wru",
+      "id": "25",
+      "bbox": [
+        615,
+        239,
+        235,
+        58
+      ],
+      "geometry": "rect",
+      "text": "碰撞、摩擦和卡阻造成\n动力学非线性与状态切换",
+      "textPreview": "碰撞、摩擦和卡阻造成 | 动力学非线性与状态切换",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "碰撞、摩擦和卡阻造成"
+          },
+          {
+            "index": 2,
+            "text": "动力学非线性与状态切换"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "碰撞、摩擦和卡阻造成",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "碰撞、摩擦和卡阻造成",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "动力学非线性与状态切换",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "动力学非线性与状态切换",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9snqhsj",
+      "id": "26",
+      "bbox": [
+        615,
+        301,
+        235,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ba1ozm94",
+      "id": "27",
+      "bbox": [
+        615,
+        319,
+        41,
+        28
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Noto Sans SC",
+        "color": "#D65B2A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Noto Sans SC",
+            "color": "#D65B2A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 18,
+              "typeface": "Noto Sans SC",
+              "color": "#D65B2A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0za5wbal",
+      "id": "28",
+      "bbox": [
+        660,
+        319,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "多模态状态难利用",
+      "textPreview": "多模态状态难利用",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多模态状态难利用"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多模态状态难利用",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多模态状态难利用",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0j65gr6",
+      "id": "29",
+      "bbox": [
+        615,
+        356,
+        235,
+        58
+      ],
+      "geometry": "rect",
+      "text": "视觉与力觉的维度、频率\n及噪声特性差异明显",
+      "textPreview": "视觉与力觉的维度、频率 | 及噪声特性差异明显",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "视觉与力觉的维度、频率"
+          },
+          {
+            "index": 2,
+            "text": "及噪声特性差异明显"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "视觉与力觉的维度、频率",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "视觉与力觉的维度、频率",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "及噪声特性差异明显",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "及噪声特性差异明显",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu58vat8",
+      "id": "30",
+      "bbox": [
+        615,
+        418,
+        235,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atw7m5cn",
+      "id": "31",
+      "bbox": [
+        615,
+        436,
+        41,
+        28
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Noto Sans SC",
+        "color": "#D65B2A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Noto Sans SC",
+            "color": "#D65B2A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 18,
+              "typeface": "Noto Sans SC",
+              "color": "#D65B2A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwnqxkbe",
+      "id": "32",
+      "bbox": [
+        660,
+        436,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "空间场景验证不足",
+      "textPreview": "空间场景验证不足",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "空间场景验证不足"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "空间场景验证不足",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "空间场景验证不足",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wve9ofut",
+      "id": "33",
+      "bbox": [
+        615,
+        473,
+        235,
+        58
+      ],
+      "geometry": "rect",
+      "text": "现有成果多面向固定基座\n在轨数据与实物试验有限",
+      "textPreview": "现有成果多面向固定基座 | 在轨数据与实物试验有限",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现有成果多面向固定基座"
+          },
+          {
+            "index": 2,
+            "text": "在轨数据与实物试验有限"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现有成果多面向固定基座",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现有成果多面向固定基座",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "在轨数据与实物试验有限",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在轨数据与实物试验有限",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6l8rqtc",
+      "id": "34",
+      "bbox": [
+        900,
+        204,
+        42,
+        42
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF2FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5c7ilcr",
+      "id": "35",
+      "bbox": [
+        900,
+        207,
+        42,
+        33
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Noto Sans SC",
+        "color": "#1C8D91",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Noto Sans SC",
+            "color": "#1C8D91",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 17,
+              "typeface": "Noto Sans SC",
+              "color": "#1C8D91",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9snqt0b2",
+      "id": "36",
+      "bbox": [
+        957,
+        202,
+        255,
+        31
+      ],
+      "geometry": "rect",
+      "text": "高拟真空间双臂环境",
+      "textPreview": "高拟真空间双臂环境",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高拟真空间双臂环境"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高拟真空间双臂环境",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高拟真空间双臂环境",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rupkvuh",
+      "id": "37",
+      "bbox": [
+        957,
+        239,
+        258,
+        58
+      ],
+      "geometry": "rect",
+      "text": "覆盖基座运动与双臂耦合\n建模插拔接触及视觉—力觉反馈",
+      "textPreview": "覆盖基座运动与双臂耦合 | 建模插拔接触及视觉—力觉反馈",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "覆盖基座运动与双臂耦合"
+          },
+          {
+            "index": 2,
+            "text": "建模插拔接触及视觉—力觉反馈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "覆盖基座运动与双臂耦合",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "覆盖基座运动与双臂耦合",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "建模插拔接触及视觉—力觉反馈",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "建模插拔接触及视觉—力觉反馈",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72p83utg",
+      "id": "38",
+      "bbox": [
+        957,
+        301,
+        258,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61grupcv",
+      "id": "39",
+      "bbox": [
+        900,
+        321,
+        42,
+        42
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF2FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9wby98z",
+      "id": "40",
+      "bbox": [
+        900,
+        324,
+        42,
+        33
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Noto Sans SC",
+        "color": "#1C8D91",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Noto Sans SC",
+            "color": "#1C8D91",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 17,
+              "typeface": "Noto Sans SC",
+              "color": "#1C8D91",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa5crepk",
+      "id": "41",
+      "bbox": [
+        957,
+        319,
+        255,
+        31
+      ],
+      "geometry": "rect",
+      "text": "连续残差柔顺策略",
+      "textPreview": "连续残差柔顺策略",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "连续残差柔顺策略"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "连续残差柔顺策略",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "连续残差柔顺策略",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bet0jq5",
+      "id": "42",
+      "bbox": [
+        957,
+        356,
+        258,
+        58
+      ],
+      "geometry": "rect",
+      "text": "保留基础控制器的稳定性，\n学习接触阶段的连续补偿量",
+      "textPreview": "保留基础控制器的稳定性， | 学习接触阶段的连续补偿量",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "保留基础控制器的稳定性，"
+          },
+          {
+            "index": 2,
+            "text": "学习接触阶段的连续补偿量"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "保留基础控制器的稳定性，",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "保留基础控制器的稳定性，",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "学习接触阶段的连续补偿量",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "学习接触阶段的连续补偿量",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cnuto7q",
+      "id": "43",
+      "bbox": [
+        957,
+        418,
+        258,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E0EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5cbu983",
+      "id": "44",
+      "bbox": [
+        900,
+        438,
+        42,
+        42
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF2FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6lcnepo",
+      "id": "45",
+      "bbox": [
+        900,
+        441,
+        42,
+        33
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Noto Sans SC",
+        "color": "#1C8D91",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Noto Sans SC",
+            "color": "#1C8D91",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 17,
+              "typeface": "Noto Sans SC",
+              "color": "#1C8D91",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7etwjq9",
+      "id": "46",
+      "bbox": [
+        957,
+        436,
+        255,
+        31
+      ],
+      "geometry": "rect",
+      "text": "跨环境与跨任务迁移",
+      "textPreview": "跨环境与跨任务迁移",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Noto Sans SC",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "跨环境与跨任务迁移"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "跨环境与跨任务迁移",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Noto Sans SC",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "跨环境与跨任务迁移",
+              "fontSize": 21,
+              "typeface": "Noto Sans SC",
+              "color": "#17212B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8nupo7u",
+      "id": "47",
+      "bbox": [
+        957,
+        473,
+        258,
+        58
+      ],
+      "geometry": "rect",
+      "text": "联合域随机化与元训练任务\n采用独立测试验证泛化能力",
+      "textPreview": "联合域随机化与元训练任务 | 采用独立测试验证泛化能力",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.51,
+        "typeface": "Noto Sans SC",
+        "color": "#5D6A78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "联合域随机化与元训练任务"
+          },
+          {
+            "index": 2,
+            "text": "采用独立测试验证泛化能力"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "联合域随机化与元训练任务",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "联合域随机化与元训练任务",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "采用独立测试验证泛化能力",
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Noto Sans SC",
+            "color": "#5D6A78",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "采用独立测试验证泛化能力",
+              "fontSize": 18.51,
+              "typeface": "Noto Sans SC",
+              "color": "#5D6A78",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gv6t87",
+      "id": "48",
+      "bbox": [
+        0,
+        560,
+        1280,
+        160
+      ],
+      "geometry": "rect",
+      "fillColor": "#10243E",
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2pczyps",
+      "id": "49",
+      "bbox": [
+        60,
+        577,
+        420,
+        31
+      ],
+      "geometry": "rect",
+      "text": "代表文献（与正文编号一致）",
+      "textPreview": "代表文献（与正文编号一致）",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Noto Sans SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "代表文献（与正文编号一致）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "代表文献（与正文编号一致）",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Noto Sans SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "代表文献（与正文编号一致）",
+              "fontSize": 20,
+              "typeface": "Noto Sans SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwrepsru",
+      "id": "50",
+      "bbox": [
+        60,
+        615,
+        1160,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#40526A",
+      "lineWidth": 0
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvixw7ap",
+      "id": "51",
+      "bbox": [
+        60,
+        628,
+        1160,
+        27
+      ],
+      "geometry": "rect",
+      "text": "算法基础：Mnih等[8] DQN，Lillicrap等[9] DDPG，Fujimoto等[10] TD3，Schulman等[11] PPO，Haarnoja等[12] SAC",
+      "textPreview": "算法基础：Mnih等[8] DQN，Lillicrap等[9] DDPG，Fujimoto等[10] TD3，Schulman等[11] PPO，Haarnoja等[12] SAC",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Noto Sans SC",
+        "color": "#D9E4F1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "算法基础：Mnih等[8] DQN，Lillicrap等[9] DDPG，Fujimoto等[10] TD3，Schulman等[11] PPO，Haarnoja等[12] SAC"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "算法基础：Mnih等[8] DQN，Lillicrap等[9] DDPG，Fujimoto等[10] TD3，Schulman等[11] PPO，Haarnoja等[12] SAC",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Noto Sans SC",
+            "color": "#D9E4F1",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "算法基础：Mnih等[8] DQN，Lillicrap等[9] DDPG，Fujimoto等[10] TD3，Schulman等[11] PPO，Haarnoja等[12] SAC",
+              "fontSize": 16.51,
+              "typeface": "Noto Sans SC",
+              "color": "#D9E4F1",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zu9wn294",
+      "id": "52",
+      "bbox": [
+        60,
+        660,
+        1160,
+        50
+      ],
+      "geometry": "rect",
+      "text": "装配与迁移：Narang等[17] Factory，Tang等[18] IndustReal，Johannink等[26] Residual RL，Tobin等[32] 域随机化，Finn等[36] MAML，Shokry等[38] 元强化学习",
+      "textPreview": "装配与迁移：Narang等[17] Factory，Tang等[18] IndustReal，Johannink等[26] Residual RL，Tobin等[32] 域随机化，Finn等[36] MAML，Shokry等[38] 元强化学习",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Noto Sans SC",
+        "color": "#D9E4F1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "装配与迁移：Narang等[17] Factory，Tang等[18] IndustReal，Johannink等[26] Residual RL，Tobin等[32] 域随机化，Finn等[36] MAML，Shokry等[38]"
+          },
+          {
+            "index": 2,
+            "text": "元强化学习"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "装配与迁移：Narang等[17] Factory，Tang等[18] IndustReal，Johannink等[26] Residual RL，Tobin等[32] 域随机化，Finn等[36] MAML，Shokry等[38] 元强化学习",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Noto Sans SC",
+            "color": "#D9E4F1",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "装配与迁移：Narang等[17] Factory，Tang等[18] IndustReal，Johannink等[26] Residual RL，Tobin等[32] 域随机化，Finn等[36] MAML，Shokry等[38] 元强化学习",
+              "fontSize": 16.51,
+              "typeface": "Noto Sans SC",
+              "color": "#D9E4F1",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
